@@ -28,5 +28,3 @@ It uses **HTML, CSS, and JavaScript** for frontend and **FastAPI** for backend p
 - 🖥 Lightweight implementation
 
 ---
-
-## 📁 Project Structure
