@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Acne",
+    "aliases": ["acne", "pimples", "zits", "blackheads", "whiteheads", "breakout"],
+    "severity_level": "common",
+    "core_symptoms": ["pimples", "blackheads", "whiteheads", "red inflamed bumps", "cysts", "oily skin"],
+    "appearance": ["inflamed bumps", "pus-filled bumps", "blocked pores", "nodules"],
+    "common_locations": ["face", "neck", "back", "chest", "shoulders", "upper arms"],
+    "triggers": ["hormonal changes", "stress", "oily cosmetics", "sweat", "humidity", "some medicines"],
+    "red_flags": ["severe pain", "rapidly spreading infection", "deep nodules"],
+    "questions": [
+      "Are the spots mostly on the face, back, chest, or shoulders?",
+      "Do you have blackheads, whiteheads, or oily skin?",
+      "Are the lesions painful, deep, or leaving scars?"
+    ],
+    "advice": [
+      "Clean the skin gently with a mild cleanser.",
+      "Avoid squeezing or picking the pimples.",
+      "Use non-comedogenic skin products.",
+      "See a dermatologist if it is severe or leaving scars."
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus: Acne",
+        "url": "https://medlineplus.gov/acne.html"
+      },
+      {
+        "label": "MedlinePlus: Acne self-care",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000750.htm"
+      }
+    ]
+  },
+  {
+    "name": "Atopic dermatitis (eczema)",
+    "aliases": ["eczema", "atopic dermatitis", "atopic eczema"],
+    "severity_level": "common",
+    "core_symptoms": ["severe itching", "dry skin", "red patches", "rash", "oozing", "crusting"],
+    "appearance": ["dry scaly patches", "inflamed skin", "lichenified skin", "cracked skin"],
+    "common_locations": ["face", "hands", "neck", "elbows", "behind knees", "wrists"],
+    "triggers": ["soaps", "detergents", "dry weather", "stress", "allergens", "irritants"],
+    "red_flags": ["signs of infection", "pus", "fever", "severe widespread rash"],
+    "questions": [
+      "Is the skin very itchy and dry?",
+      "Did soaps, detergents, or weather make it worse?",
+      "Do you have a personal or family history of allergies or asthma?"
+    ],
+    "advice": [
+      "Moisturize frequently with a fragrance-free product.",
+      "Avoid harsh soaps and known irritants.",
+      "Keep nails short to reduce damage from scratching.",
+      "See a doctor if the skin looks infected."
+    ],
+    "sources": [
+      {
+        "label": "NIAMS: Atopic dermatitis",
+        "url": "https://www.niams.nih.gov/health-topics/atopic-dermatitis/basics/symptoms-causes"
+      }
+    ]
+  },
+  {
+    "name": "Psoriasis",
+    "aliases": ["psoriasis", "plaque psoriasis"],
+    "severity_level": "common",
+    "core_symptoms": ["red scaly patches", "itching", "burning", "dry cracked skin", "thick plaques"],
+    "appearance": ["well-defined plaques", "silvery-white scales", "raised red patches"],
+    "common_locations": ["scalp", "elbows", "knees", "lower back", "palms", "soles"],
+    "triggers": ["stress", "skin injury", "infection", "some medicines", "cold weather"],
+    "red_flags": ["severe joint pain", "rapidly spreading rash", "extensive redness"],
+    "questions": [
+      "Are the patches thick and scaly with clear borders?",
+      "Is the scalp, elbows, or knees affected?",
+      "Do you also have joint pain or nail changes?"
+    ],
+    "advice": [
+      "Use moisturizers regularly.",
+      "Avoid scratching or harsh scrubbing.",
+      "Seek dermatology advice if the rash is extensive.",
+      "See a doctor if joints are painful or swollen."
+    ],
+    "sources": [
+      {
+        "label": "NIAMS: Psoriasis",
+        "url": "https://www.niams.nih.gov/health-topics/psoriasis/basics/symptoms-causes"
+      }
+    ]
+  },
+  {
+    "name": "Ringworm (tinea)",
+    "aliases": ["ringworm", "tinea", "fungal infection", "athlete's foot", "jock itch"],
+    "severity_level": "common",
+    "core_symptoms": ["itchy rash", "ring-shaped rash", "scaly rash", "circular rash"],
+    "appearance": ["raised scaly border", "central clearing", "ring-like lesion"],
+    "common_locations": ["scalp", "feet", "groin", "body", "nails"],
+    "triggers": ["sweating", "moisture", "contact with infected people", "contact with infected animals", "shared towels"],
+    "red_flags": ["rapid spread", "non-healing lesion", "painful infected area"],
+    "questions": [
+      "Is the rash circular or ring-shaped?",
+      "Did it start after contact with someone, an animal, or a shared surface?",
+      "Is it worse in warm or moist areas?"
+    ],
+    "advice": [
+      "Keep the area clean and dry.",
+      "Avoid sharing towels, clothes, or combs.",
+      "Use antifungal treatment only as directed.",
+      "See a doctor if it spreads or does not improve."
+    ],
+    "sources": [
+      {
+        "label": "CDC: Ringworm clinical overview",
+        "url": "https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html"
+      },
+      {
+        "label": "CDC: Ringworm symptoms",
+        "url": "https://www.cdc.gov/ringworm/signs-symptoms/index.html"
+      }
+    ]
+  },
+  {
+    "name": "Rosacea",
+    "aliases": ["rosacea", "facial redness", "red face", "flushing"],
+    "severity_level": "common",
+    "core_symptoms": ["facial redness", "flushing", "burning face", "small bumps", "visible blood vessels"],
+    "appearance": ["persistent redness", "pus-filled bumps", "rough scaly skin"],
+    "common_locations": ["cheeks", "nose", "forehead", "chin", "eyes"],
+    "triggers": ["sun exposure", "stress", "spicy food", "alcohol", "heat"],
+    "red_flags": ["eye pain", "vision changes", "severe eye irritation"],
+    "questions": [
+      "Is the redness mostly on the cheeks or nose?",
+      "Does heat, sunlight, or spicy food make it worse?",
+      "Are your eyes irritated or painful?"
+    ],
+    "advice": [
+      "Use gentle skin care products.",
+      "Protect skin from sun exposure.",
+      "Avoid triggers that worsen flushing.",
+      "See a dermatologist if the eyes are involved."
+    ],
+    "sources": [
+      {
+        "label": "NIAMS: Rosacea",
+        "url": "https://www.niams.nih.gov/health-topics/rosacea"
+      }
+    ]
+  },
+  {
+    "name": "Vitiligo",
+    "aliases": ["vitiligo", "white patches", "loss of pigment", "depigmentation"],
+    "severity_level": "common",
+    "core_symptoms": ["white patches", "loss of color", "depigmented skin"],
+    "appearance": ["well-defined pale patches", "sharp borders", "normal skin texture"],
+    "common_locations": ["face", "hands", "feet", "elbows", "knees", "around mouth", "around eyes"],
+    "triggers": ["autoimmune", "family history", "stress"],
+    "red_flags": ["rapid spread", "eye or mouth involvement", "severe emotional distress"],
+    "questions": [
+      "Are the patches white and not itchy or painful?",
+      "Are the borders sharply defined?",
+      "Is there a family history of autoimmune disease?"
+    ],
+    "advice": [
+      "Use sunscreen on depigmented areas.",
+      "Protect the skin from sun damage.",
+      "Consult a dermatologist for evaluation.",
+      "Vitiligo is not contagious."
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus: Vitiligo",
+        "url": "https://medlineplus.gov/ency/article/000831.htm"
+      },
+      {
+        "label": "MedlinePlus: Vitiligo topic",
+        "url": "https://medlineplus.gov/vitiligo.html"
+      }
+    ]
+  },
+  {
+    "name": "Contact dermatitis",
+    "aliases": ["contact dermatitis", "allergic rash", "irritant rash", "chemical rash"],
+    "severity_level": "common",
+    "core_symptoms": ["red rash", "itching", "soreness", "burning", "blisters"],
+    "appearance": ["patchy rash", "weeping blisters", "raw skin", "thickened skin"],
+    "common_locations": ["hands", "face", "neck", "areas of contact"],
+    "triggers": ["soap", "detergent", "fragrance", "nickel", "latex", "plants", "chemicals"],
+    "red_flags": ["widespread rash", "swelling of face", "breathing trouble"],
+    "questions": [
+      "Did the rash appear after touching a new product or chemical?",
+      "Is the rash exactly where the substance touched the skin?",
+      "Is there any swelling or breathing difficulty?"
+    ],
+    "advice": [
+      "Stop using the suspected trigger.",
+      "Wash the area gently with water.",
+      "Use a cold compress for relief.",
+      "See a doctor if it is widespread or severe."
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus: Contact dermatitis",
+        "url": "https://medlineplus.gov/ency/article/000869.htm"
+      }
+    ]
+  },
+  {
+    "name": "Urticaria (hives)",
+    "aliases": ["urticaria", "hives", "welts", "wheals"],
+    "severity_level": "common",
+    "core_symptoms": ["itchy welts", "raised red bumps", "swelling", "rapidly changing rash"],
+    "appearance": ["moving welts", "red or skin-colored wheals", "ring-like swellings"],
+    "common_locations": ["anywhere on the body", "face", "arms", "legs", "trunk"],
+    "triggers": ["foods", "medicine", "infection", "stress", "insect stings", "allergy"],
+    "red_flags": ["throat swelling", "tongue swelling", "difficulty breathing"],
+    "questions": [
+      "Did the hives start after food, medicine, or an insect sting?",
+      "Are the welts changing location quickly?",
+      "Is there any swelling of the lips, tongue, or throat?"
+    ],
+    "advice": [
+      "Avoid the suspected trigger.",
+      "Do not scratch the welts.",
+      "Seek urgent help if breathing is affected.",
+      "See a doctor if it keeps coming back."
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus: Hives",
+        "url": "https://medlineplus.gov/ency/article/000845.htm"
+      }
+    ]
+  },
+  {
+    "name": "Impetigo",
+    "aliases": ["impetigo", "school sores", "honey crust", "crusty sores"],
+    "severity_level": "common",
+    "core_symptoms": ["red itchy sores", "oozing", "pus", "crusts", "blisters"],
+    "appearance": ["honey-colored crust", "weeping sores", "yellow-brown scabs"],
+    "common_locations": ["face", "around nose", "around mouth", "arms", "legs"],
+    "triggers": ["skin breaks", "scratching", "close contact", "hot humid weather"],
+    "red_flags": ["fever", "rapid spread", "facial swelling"],
+    "questions": [
+      "Do the sores leak fluid and then form honey-colored crusts?",
+      "Did it start after scratching a cut or bite?",
+      "Has anyone around you had similar sores?"
+    ],
+    "advice": [
+      "Keep the area clean and covered.",
+      "Do not share towels or clothing.",
+      "See a doctor because antibiotics may be needed.",
+      "Impetigo can spread to other people."
+    ],
+    "sources": [
+      {
+        "label": "CDC: About impetigo",
+        "url": "https://www.cdc.gov/group-a-strep/about/impetigo.html"
+      },
+      {
+        "label": "CDC: Clinical guidance for impetigo",
+        "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html"
+      }
+    ]
+  },
+  {
+    "name": "Cellulitis",
+    "aliases": ["cellulitis"],
+    "severity_level": "medium",
+    "core_symptoms": ["painful skin", "hot skin", "swollen skin", "fever", "flu-like symptoms"],
+    "appearance": ["diffuse redness", "blistered skin", "tight swollen skin"],
+    "common_locations": ["lower legs", "hands", "arms", "face"],
+    "triggers": ["skin breaks", "cuts", "ulcers", "insect bites", "fungal infection"],
+    "red_flags": ["rapid spread", "high fever", "confusion", "purple blotches"],
+    "questions": [
+      "Is the area painful, hot, and swollen?",
+      "Did it start after a cut, wound, or insect bite?",
+      "Do you have fever, chills, or feel unwell?"
+    ],
+    "advice": [
+      "Seek urgent medical care because antibiotics may be needed.",
+      "Elevate the affected area if possible.",
+      "Do not delay if redness is spreading quickly.",
+      "Follow the full treatment course if prescribed."
+    ],
+    "sources": [
+      {
+        "label": "NHS: Cellulitis",
+        "url": "https://www.nhs.uk/conditions/cellulitis/"
+      },
+      {
+        "label": "CHFT NHS: Cellulitis",
+        "url": "https://www.cht.nhs.uk/services/clinical-services/lymphoedema/cellulitis"
+      }
+    ]
+  },
+  {
+    "name": "Folliculitis",
+    "aliases": ["folliculitis"],
+    "severity_level": "medium",
+    "core_symptoms": ["red bumps", "tender bumps", "pus-filled bumps", "itching", "pain"],
+    "appearance": ["pustules around hair follicles", "small inflamed bumps", "boil-like spots"],
+    "common_locations": ["scalp", "beard area", "neck", "armpits", "legs", "buttocks", "back"],
+    "triggers": ["shaving", "friction", "hot tubs", "tight clothing", "sweating"],
+    "red_flags": ["fever", "large boils", "rapid spread", "abscess"],
+    "questions": [
+      "Are the bumps centered around hair follicles?",
+      "Did shaving, tight clothes, or a hot tub trigger it?",
+      "Are the bumps becoming large or painful?"
+    ],
+    "advice": [
+      "Keep the area clean and avoid shaving it.",
+      "Use warm compresses for mild cases.",
+      "See a doctor if the bumps become large or painful.",
+      "Avoid tight clothing and friction."
+    ],
+    "sources": [
+      {
+        "label": "DermNet: Folliculitis",
+        "url": "https://dermnetnz.org/topics/folliculitis"
+      }
+    ]
+  },
+  {
+    "name": "Seborrheic dermatitis",
+    "aliases": ["seborrheic dermatitis", "dandruff", "cradle cap"],
+    "severity_level": "medium",
+    "core_symptoms": ["itching", "flaking", "scaling", "greasy skin", "dandruff"],
+    "appearance": ["yellowish scales", "red patches", "greasy flakes"],
+    "common_locations": ["scalp", "eyebrows", "around nose", "ears", "chest"],
+    "triggers": ["stress", "cold weather", "oily skin", "yeast overgrowth"],
+    "red_flags": ["severe inflammation", "secondary infection"],
+    "questions": [
+      "Is the scalp or face flaky and itchy?",
+      "Does it come and go in flares?",
+      "Is it worse in cold weather or stress?"
+    ],
+    "advice": [
+      "Use medicated shampoo if the scalp is affected.",
+      "Use gentle skin care products.",
+      "See a doctor if it is severe or does not improve.",
+      "Do not scratch the flaky areas."
+    ],
+    "sources": [
+      {
+        "label": "Cleveland Clinic: Seborrheic dermatitis",
+        "url": "https://my.clevelandclinic.org/health/diseases/14403-seborrheic-dermatitis"
+      }
+    ]
+  },
+  {
+    "name": "Lichen planus",
+    "aliases": ["lichen planus"],
+    "severity_level": "medium",
+    "core_symptoms": ["itchy bumps", "purple bumps", "flat-topped papules", "white lacy lines"],
+    "appearance": ["shiny purple papules", "polygonal plaques", "Wickham striae"],
+    "common_locations": ["wrists", "ankles", "lower back", "mouth", "genitals"],
+    "triggers": ["autoimmune reaction", "hepatitis C", "drug reaction", "skin trauma"],
+    "red_flags": ["painful mouth ulcers", "blistering", "nail involvement"],
+    "questions": [
+      "Do you see purple, flat-topped bumps or white lacy lines?",
+      "Is the mouth also affected?",
+      "Have you started any new medicines recently?"
+    ],
+    "advice": [
+      "See a dermatologist for evaluation.",
+      "Topical steroids are often used for symptoms.",
+      "Avoid skin trauma and scratching.",
+      "Oral lesions should be checked by a doctor."
+    ],
+    "sources": [
+      {
+        "label": "DermNet: Lichen planus",
+        "url": "https://dermnetnz.org/topics/lichen-planus"
+      }
+    ]
+  },
+  {
+    "name": "Scabies",
+    "aliases": ["scabies", "itch mite", "mite infestation"],
+    "severity_level": "medium",
+    "core_symptoms": ["intense itching", "night itching", "papular rash", "burrows", "pimple-like rash"],
+    "appearance": ["tiny burrows", "small red papules", "crooked lines"],
+    "common_locations": ["between fingers", "wrists", "elbows", "waist", "buttocks", "genitals"],
+    "triggers": ["close skin-to-skin contact", "crowded living conditions", "shared bedding", "shared clothing"],
+    "red_flags": ["crusted scabies", "secondary infection", "widespread sores"],
+    "questions": [
+      "Is the itching worse at night?",
+      "Do you see bumps between the fingers or on the wrists?",
+      "Has anyone close to you had the same itching?"
+    ],
+    "advice": [
+      "See a doctor because scabies needs prescription treatment.",
+      "Wash clothing and bedding in hot water.",
+      "Treat close contacts at the same time.",
+      "Avoid close skin-to-skin contact until treatment is complete."
+    ],
+    "sources": [
+      {
+        "label": "CDC: Scabies about",
+        "url": "https://www.cdc.gov/scabies/about/index.html"
+      },
+      {
+        "label": "CDC: Scabies symptoms",
+        "url": "https://www.cdc.gov/scabies/signs-symptoms/index.html"
+      },
+      {
+        "label": "CDC: Scabies treatment",
+        "url": "https://www.cdc.gov/scabies/treatment/index.html"
+      }
+    ]
+  },
+  {
+    "name": "Erythema multiforme",
+    "aliases": ["erythema multiforme", "em", "target lesions", "bulls-eye rash"],
+    "severity_level": "medium",
+    "core_symptoms": ["target lesions", "bulls-eye lesions", "rash", "mucosal lesions"],
+    "appearance": ["concentric rings", "red outer ring", "pale center", "dark center"],
+    "common_locations": ["hands", "arms", "legs", "face", "lips", "mouth"],
+    "triggers": ["herpes simplex", "mycoplasma", "medicines", "infection"],
+    "red_flags": ["mouth involvement", "eye involvement", "extensive blistering"],
+    "questions": [
+      "Do you see target-shaped lesions?",
+      "Did it happen after a cold sore or new medicine?",
+      "Are the mouth or eyes also affected?"
+    ],
+    "advice": [
+      "See a doctor if mucous membranes are involved.",
+      "Treat the underlying trigger when identified.",
+      "Use cool compresses for comfort.",
+      "Do not ignore blistering or eye symptoms."
+    ],
+    "sources": [
+      {
+        "label": "DermNet: Erythema multiforme",
+        "url": "https://dermnetnz.org/topics/erythema-multiforme"
+      }
+    ]
+  },
+  {
+    "name": "Melanoma",
+    "aliases": ["melanoma", "skin cancer", "changing mole", "irregular mole"],
+    "severity_level": "critical",
+    "core_symptoms": ["new mole", "changing mole", "irregular border", "mixed colors", "bleeding lesion"],
+    "appearance": ["asymmetric lesion", "varied color", "dark pigmented spot", "large or evolving mole"],
+    "common_locations": ["anywhere", "back", "legs", "arms", "trunk", "palms", "soles"],
+    "triggers": ["sun exposure", "uv exposure", "family history", "atypical moles"],
+    "red_flags": ["asymmetry", "border irregularity", "color variation", "evolution", "bleeding"],
+    "questions": [
+      "Has the mole changed in size, shape, or color?",
+      "Is there bleeding or a new dark spot?",
+      "Does the mole have irregular borders or multiple colors?"
+    ],
+    "advice": [
+      "Seek urgent dermatologist evaluation.",
+      "Suspicious lesions usually need biopsy.",
+      "Protect skin from UV exposure.",
+      "Do not ignore a changing mole."
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus: Melanoma",
+        "url": "https://medlineplus.gov/ency/article/000850.htm"
+      },
+      {
+        "label": "MedlinePlus: Melanoma topic",
+        "url": "https://medlineplus.gov/melanoma.html"
+      }
+    ]
+  },
+  {
+    "name": "Necrotizing fasciitis",
+    "aliases": ["necrotizing fasciitis", "flesh-eating disease"],
+    "severity_level": "critical",
+    "core_symptoms": ["severe pain", "rapidly spreading redness", "fever", "swelling", "feeling unwell"],
+    "appearance": ["purple blotches", "gray skin", "blisters", "rapid tissue damage"],
+    "common_locations": ["any area with a wound", "arms", "legs", "perineum"],
+    "triggers": ["wound", "cut", "recent surgery", "immunosuppression", "diabetes"],
+    "red_flags": ["pain out of proportion", "rapid spread", "high fever", "confusion", "black or purple blotches", "blisters"],
+    "questions": [
+      "Did this start near a wound or cut?",
+      "Is the pain much worse than expected?",
+      "Is the redness spreading very quickly?"
+    ],
+    "advice": [
+      "This is an emergency.",
+      "Go to hospital immediately or call emergency services.",
+      "Do not wait for home treatment.",
+      "Urgent antibiotics and surgical treatment may be needed."
+    ],
+    "sources": [
+      {
+        "label": "CDC: Necrotizing fasciitis",
+        "url": "https://www.cdc.gov/group-a-strep/about/necrotizing-fasciitis.html"
+      },
+      {
+        "label": "NHS: Necrotising fasciitis",
+        "url": "https://www.nhs.uk/conditions/necrotising-fasciitis/"
+      }
+    ]
+  },
+  {
+    "name": "Stevens-Johnson syndrome / TEN",
+    "aliases": ["stevens johnson syndrome", "sjs", "ten", "toxic epidermal necrolysis"],
+    "severity_level": "critical",
+    "core_symptoms": ["fever", "skin pain", "red rash", "blisters", "peeling skin", "mouth sores"],
+    "appearance": ["widespread blistering", "skin peeling", "raw skin", "mucosal erosions"],
+    "common_locations": ["trunk", "face", "mouth", "eyes", "genitals"],
+    "triggers": ["new medicine", "infection", "mycoplasma", "herpes"],
+    "red_flags": ["skin peeling", "eye involvement", "mouth involvement", "high fever", "painful sores"],
+    "questions": [
+      "Did symptoms start after a new medicine?",
+      "Are the mouth, eyes, or genitals affected?",
+      "Is the skin painful or peeling?"
+    ],
+    "advice": [
+      "This is an emergency and needs hospital care.",
+      "Stop the suspected medicine only under urgent medical guidance.",
+      "Go to the emergency department immediately.",
+      "Burn-unit-level care may be required."
+    ],
+    "sources": [
+      {
+        "label": "Cleveland Clinic: Stevens-Johnson syndrome",
+        "url": "https://my.clevelandclinic.org/health/diseases/17656-stevens-johnson-syndrome"
+      }
+    ]
+  },
+  {
+    "name": "Staphylococcal scalded skin syndrome",
+    "aliases": ["staphylococcal scalded skin syndrome", "ssss", "scalded skin syndrome", "ritter disease"],
+    "severity_level": "critical",
+    "core_symptoms": ["fever", "tender skin", "rash", "blistering", "peeling skin"],
+    "appearance": ["flaccid blisters", "raw moist skin", "burn-like peeling"],
+    "common_locations": ["face", "neck", "axillae", "groin", "flexures"],
+    "triggers": ["staph infection", "exfoliative toxin"],
+    "red_flags": ["rapid peeling", "dehydration", "infant or young child", "widespread rash"],
+    "questions": [
+      "Is the skin peeling quickly like a burn?",
+      "Is the patient a young child or infant?",
+      "Is there fever or widespread tenderness?"
+    ],
+    "advice": [
+      "This needs urgent hospital treatment.",
+      "IV antibiotics and fluids may be needed.",
+      "Do not attempt home treatment.",
+      "Seek emergency care immediately."
+    ],
+    "sources": [
+      {
+        "label": "Cleveland Clinic: SSSS",
+        "url": "https://my.clevelandclinic.org/health/diseases/staph-scalded-skin-syndrome"
+      }
+    ]
+  },
+  {
+    "name": "Cutaneous vasculitis",
+    "aliases": ["cutaneous vasculitis", "vasculitis", "palpable purpura"],
+    "severity_level": "critical",
+    "core_symptoms": ["purple spots", "red spots", "purpura", "burning pain", "palpable purpura"],
+    "appearance": ["raised purple spots", "petechiae", "purpuric rash", "nodules"],
+    "common_locations": ["lower legs", "ankles", "shins", "feet"],
+    "triggers": ["infection", "drug reaction", "autoimmune disease"],
+    "red_flags": ["ulceration", "kidney involvement", "abdominal pain", "joint pain", "systemic symptoms"],
+    "questions": [
+      "Do you have purple spots on the legs?",
+      "Any joint pain, abdominal pain, or blood in urine?",
+      "Did this start after a new medicine or infection?"
+    ],
+    "advice": [
+      "Get medical evaluation, especially if there are systemic symptoms.",
+      "Rest and elevate the legs if advised.",
+      "Treatment depends on the cause.",
+      "Do not ignore purpura with fever or organ symptoms."
+    ],
+    "sources": [
+      {
+        "label": "DermNet: Cutaneous vasculitis",
+        "url": "https://dermnetnz.org/topics/cutaneous-vasculitis"
+      }
+    ]
+  }
+]
